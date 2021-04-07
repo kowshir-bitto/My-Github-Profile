@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Abu Kowshir Bitto</h1>
-<h3 align="center">A passionate Full Stack Developer & Data Scientist.</h3>
+<h3 align="center">A passionate Data Scientist & Researcher & Full Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on **data science projects.**
 
