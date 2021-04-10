@@ -1,17 +1,15 @@
 <h1 align="center">Hi,I'm Abu Kowshir Bitto</h1>
 <h3 align="center">A passionate Data Scientist & Researcher & Full Stack Web Developer.</h3>
 
-- 🔭 I’m currently working on **data science projects.**
+- 🔭 I’m currently working on **Data Science Projects.**
 
-- 🌱 I’m currently learning **new technologies.**
+- 🌱 I’m currently learning **New Technologies.**
 
-- 👯 I’m looking to collaborate on **projects & research.**
+- 👯 I’m looking to collaborate on **Projects & Research.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kowshir-bitto](https://github.com/kowshir-bitto)
 
-- 💬 Ask me about **data science & web development.**
-
-- 📫 How to reach me **abu.kowshir777@gmail.com**
+- 💬 Ask me about **Data Science & Web Development.**
 
 - 📄 Know about my experiences [https://sites.google.com/diu.edu.bd/kowshir-bitto/home](https://sites.google.com/diu.edu.bd/kowshir-bitto/home)
 
